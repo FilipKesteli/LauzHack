@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "505318667810",
+    "firebase_url": "https://lauzhack-8b2f1.firebaseio.com",
+    "project_id": "lauzhack-8b2f1",
+    "storage_bucket": "lauzhack-8b2f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505318667810:android:591f11672cca944a",
+        "android_client_info": {
+          "package_name": "com.kesteli.filip.lauzhack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505318667810-sbc5qcvk14a4dohdne2q6bcqod8m0rhj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kesteli.filip.lauzhack",
+            "certificate_hash": "786b1cf29f4c637d7765dd63c11717bee3eada59"
+          }
+        },
+        {
+          "client_id": "505318667810-ac10n54801esu8vhf8gb66a28i9vhgn5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR_acFB9yh1A0jx6RcYEbdPJV8xscrRuo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505318667810-ac10n54801esu8vhf8gb66a28i9vhgn5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

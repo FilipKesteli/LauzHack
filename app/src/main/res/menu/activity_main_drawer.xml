@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_writer"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Writer" />
+        <item
+            android:id="@+id/nav_scientist"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Scientist" />
+        <item
+            android:id="@+id/nav_speaker"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Speaker" />
+    </group>
+
+    <item android:title="Other">
+        <menu>
+            <item
+                android:id="@+id/nav_about"
+                android:icon="@drawable/ic_menu_share"
+                android:title="About us" />
+            <item
+                android:id="@+id/nav_donate"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Donate" />
+        </menu>
+    </item>
+
+</menu>

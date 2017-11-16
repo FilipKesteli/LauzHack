@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.kesteli.filip.lauzhack.MainActivity">
+
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/btnNewSpeaker"
+        android:layout_width="220dp"
+        android:layout_height="80dp"
+        android:layout_gravity="bottom|center"
+        android:layout_marginBottom="20dp"
+        android:text="Summarize your speech"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        app:backgroundTint="@color/colorPrimary"
+        tools:layout_editor_absoluteY="481dp" />
+
+</android.support.design.widget.CoordinatorLayout>
